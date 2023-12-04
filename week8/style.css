@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(205, 138, 138);
+    color: #fff;
+}
+body {
+    margin: 50px 300px;
+    width: fit-content;
+    padding: 40px;
+    border: #fedbdb 9px double;
+    font: 1.5em sans-serif;
+}
